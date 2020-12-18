@@ -10,3 +10,15 @@ C:\Users\vp01ktj\source\repos\EnglishMonarchs\EnglishMonarchs\bin\Debug\netcorea
 C:\Users\vp01ktj\source\repos\EnglishMonarchs\EnglishMonarchs\obj\Debug\netcoreapp3.1\EnglishMonarchs.dll
 C:\Users\vp01ktj\source\repos\EnglishMonarchs\EnglishMonarchs\obj\Debug\netcoreapp3.1\EnglishMonarchs.pdb
 C:\Users\vp01ktj\source\repos\EnglishMonarchs\EnglishMonarchs\obj\Debug\netcoreapp3.1\EnglishMonarchs.genruntimeconfig.cache
+C:\Users\vp01ktj\Documents\Kristin\3shape\CodeTask\EnglishMonarchs\EnglishMonarchs\obj\Debug\netcoreapp3.1\EnglishMonarchs.csprojAssemblyReference.cache
+C:\Users\vp01ktj\Documents\Kristin\3shape\CodeTask\EnglishMonarchs\EnglishMonarchs\obj\Debug\netcoreapp3.1\EnglishMonarchs.AssemblyInfoInputs.cache
+C:\Users\vp01ktj\Documents\Kristin\3shape\CodeTask\EnglishMonarchs\EnglishMonarchs\obj\Debug\netcoreapp3.1\EnglishMonarchs.AssemblyInfo.cs
+C:\Users\vp01ktj\Documents\Kristin\3shape\CodeTask\EnglishMonarchs\EnglishMonarchs\obj\Debug\netcoreapp3.1\EnglishMonarchs.dll
+C:\Users\vp01ktj\Documents\Kristin\3shape\CodeTask\EnglishMonarchs\EnglishMonarchs\obj\Debug\netcoreapp3.1\EnglishMonarchs.pdb
+C:\Users\vp01ktj\Documents\Kristin\3shape\CodeTask\EnglishMonarchs\EnglishMonarchs\bin\Debug\netcoreapp3.1\EnglishMonarchs.exe
+C:\Users\vp01ktj\Documents\Kristin\3shape\CodeTask\EnglishMonarchs\EnglishMonarchs\bin\Debug\netcoreapp3.1\EnglishMonarchs.deps.json
+C:\Users\vp01ktj\Documents\Kristin\3shape\CodeTask\EnglishMonarchs\EnglishMonarchs\bin\Debug\netcoreapp3.1\EnglishMonarchs.runtimeconfig.json
+C:\Users\vp01ktj\Documents\Kristin\3shape\CodeTask\EnglishMonarchs\EnglishMonarchs\bin\Debug\netcoreapp3.1\EnglishMonarchs.runtimeconfig.dev.json
+C:\Users\vp01ktj\Documents\Kristin\3shape\CodeTask\EnglishMonarchs\EnglishMonarchs\bin\Debug\netcoreapp3.1\EnglishMonarchs.dll
+C:\Users\vp01ktj\Documents\Kristin\3shape\CodeTask\EnglishMonarchs\EnglishMonarchs\bin\Debug\netcoreapp3.1\EnglishMonarchs.pdb
+C:\Users\vp01ktj\Documents\Kristin\3shape\CodeTask\EnglishMonarchs\EnglishMonarchs\obj\Debug\netcoreapp3.1\EnglishMonarchs.genruntimeconfig.cache

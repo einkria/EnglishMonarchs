@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vp01ktj\\source\\repos\\EnglishMonarchs\\EnglishMonarchs\\EnglishMonarchs.csproj",
+      "projectUniqueName": "C:\\Users\\vp01ktj\\Documents\\Kristin\\3shape\\CodeTask\\EnglishMonarchs\\EnglishMonarchs\\EnglishMonarchs.csproj",
       "projectName": "EnglishMonarchs",
-      "projectPath": "C:\\Users\\vp01ktj\\source\\repos\\EnglishMonarchs\\EnglishMonarchs\\EnglishMonarchs.csproj",
+      "projectPath": "C:\\Users\\vp01ktj\\Documents\\Kristin\\3shape\\CodeTask\\EnglishMonarchs\\EnglishMonarchs\\EnglishMonarchs.csproj",
       "packagesPath": "C:\\Users\\vp01ktj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vp01ktj\\source\\repos\\EnglishMonarchs\\EnglishMonarchs\\obj\\",
+      "outputPath": "C:\\Users\\vp01ktj\\Documents\\Kristin\\3shape\\CodeTask\\EnglishMonarchs\\EnglishMonarchs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
