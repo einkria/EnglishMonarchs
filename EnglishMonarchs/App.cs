@@ -9,6 +9,7 @@ namespace EnglishMonarchs
         public void Run()
         {
             WriteIntro();
+            RunApp();
         }
 
         private void WriteIntro()
@@ -25,6 +26,27 @@ namespace EnglishMonarchs
             Console.WriteLine("               |___/                                                             ");
             Console.WriteLine();
             Console.WriteLine("An information app with useful information about the history of English Monarchs");
+            Console.WriteLine();
+        }
+
+        private void RunApp()
+        {
+            while(true)
+            {
+                Console.WriteLine("To fetch information about the history English Monarchs, enter 'Y'.");
+                Console.WriteLine("Enter any other key to quit:");
+                var selection = Console.ReadKey();
+
+                if (!selection.KeyChar.Equals('y') && !selection.KeyChar.Equals('Y'))
+                {
+                    Console.WriteLine();
+                    Console.WriteLine("Thank you for using English Monarchs. Goodbye!");
+                    return;
+                }
+
+                Console.WriteLine();
+                Console.WriteLine("You have chosen Y, well done!");
+            }
         }
     }
 }
