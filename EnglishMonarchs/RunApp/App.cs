@@ -10,6 +10,7 @@ namespace EnglishMonarchs.RunApp
         {
             WriteIntro();
             RunApp();
+            WriteOutro();
         }
 
         private void WriteIntro()
@@ -29,6 +30,22 @@ namespace EnglishMonarchs.RunApp
             Console.WriteLine();
         }
 
+        private void WriteOutro()
+        {
+            Console.WriteLine();
+            Console.WriteLine("Thank you for using ENGLISH MONARCHS!");
+            Console.WriteLine();
+            Console.WriteLine("   _____                 _ _                ");
+            Console.WriteLine("  / ____|               | | |               ");
+            Console.WriteLine(" | |  __  ___   ___   __| | |__  _   _  ___ ");
+            Console.WriteLine(" | | |_ |/ _ \\ / _ \\ / _` | '_ \\| | | |/ _ \\");
+            Console.WriteLine(" | |__| | (_) | (_) | (_| | |_) | |_| |  __/");
+            Console.WriteLine("  \\_____|\\___/ \\___/ \\__,_|_.__/ \\__, |\\___|");
+            Console.WriteLine("                                  __/ |     ");
+            Console.WriteLine("                                 |___/      ");
+            Console.WriteLine();
+        }
+
         private void RunApp()
         {
             while(true)
@@ -39,14 +56,19 @@ namespace EnglishMonarchs.RunApp
 
                 if (!selection.KeyChar.Equals('y') && !selection.KeyChar.Equals('Y'))
                 {
-                    Console.WriteLine();
-                    Console.WriteLine("Thank you for using English Monarchs. Goodbye!");
                     return;
                 }
 
-                Console.WriteLine();
-                Console.WriteLine("You have chosen Y, well done!");
+                GetMonarchData();
             }
+        }
+
+        private void GetMonarchData()
+        {
+            Console.WriteLine();
+            Console.WriteLine("Fetching data from service");
+            Console.WriteLine("Printing data from service");
+            Console.WriteLine();
         }
     }
 }
