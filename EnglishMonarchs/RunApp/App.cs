@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace EnglishMonarchs
+namespace EnglishMonarchs.RunApp
 {
-    class App
+    class App : IApp
     {
         public void Run()
         {
