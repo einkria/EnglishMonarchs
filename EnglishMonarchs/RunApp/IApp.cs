@@ -4,7 +4,7 @@ using System.Text;
 
 namespace EnglishMonarchs.RunApp
 {
-    interface IApp
+    public interface IApp
     {
         void Run();
     }
