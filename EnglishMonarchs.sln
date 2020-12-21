@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnglishMonarchs", "EnglishMonarchs\EnglishMonarchs.csproj", "{3B67B479-3474-469E-84F7-1F312C47DD45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishMonarchsTest", "EnglishMonarchsTest\EnglishMonarchsTest.csproj", "{91A15FE2-13B1-4C1C-B21D-E3EBFD74BFB9}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{3B67B479-3474-469E-84F7-1F312C47DD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B67B479-3474-469E-84F7-1F312C47DD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B67B479-3474-469E-84F7-1F312C47DD45}.Release|Any CPU.Build.0 = Release|Any CPU
-		{91A15FE2-13B1-4C1C-B21D-E3EBFD74BFB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{91A15FE2-13B1-4C1C-B21D-E3EBFD74BFB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{91A15FE2-13B1-4C1C-B21D-E3EBFD74BFB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{91A15FE2-13B1-4C1C-B21D-E3EBFD74BFB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,11 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Threading.Tasks;
 
 namespace EnglishMonarchs.RunApp
 {
     public interface IApp
     {
-        void Run();
+        /*
+         * Run the application
+         */
+        Task<bool> Run();
     }
 }

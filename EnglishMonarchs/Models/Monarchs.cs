@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace EnglishMonarchs.Models
 {
@@ -13,6 +11,15 @@ namespace EnglishMonarchs.Models
             _monarchs = monarchs;
         }
 
+        public int Count()
+        {
+            return _monarchs.Count;
+        }
+
+        public Monarch GetMonarch(int index)
+        {
+            return _monarchs[index];
+        }
 
     }
 }
